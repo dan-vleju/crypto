@@ -1,0 +1,4 @@
+github "SnapKit/SnapKit" "5.0.1"
+github "danielgindi/Charts" "v4.0.1"
+github "onevcat/Kingfisher" "6.3.0"
+github "realm/realm-cocoa" "v10.7.6"

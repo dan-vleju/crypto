@@ -1,0 +1,47 @@
+{
+  "Mac" : [
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "4d612e1297a7519bb259420441230b232bdfc1401c1256b9b4f1976fab8bb4dd",
+      "name" : "Charts",
+      "container" : "Charts.xcframework",
+      "identifier" : "macos-arm64_x86_64"
+    }
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "eb242470f657f5fb95a9f2586dcbfa84f100a80e49c05afe09d18225a88ebcdc",
+      "name" : "Charts",
+      "container" : "Charts.xcframework",
+      "identifier" : "tvos-arm64_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "452c873402078706cb9f01694d72b211621b939978a4e089e17f1f97acf97656",
+      "name" : "Charts",
+      "container" : "Charts.xcframework",
+      "identifier" : "tvos-arm64"
+    }
+  ],
+  "commitish" : "v4.0.1",
+  "iOS" : [
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "e6b9bac46f5a5645a64b0946c320a33989036e885522c27ee0d7b7e041c0b6cb",
+      "name" : "Charts",
+      "container" : "Charts.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "3aab219e0daae8540789d7e89c5dbc35ba7d0d26090405d6550e8675bc49851f",
+      "name" : "Charts",
+      "container" : "Charts.xcframework",
+      "identifier" : "ios-arm64_armv7"
+    }
+  ]
+}
